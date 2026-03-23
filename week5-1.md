@@ -8,3 +8,11 @@
 
 ## Task5-Task6
 <img width="767" height="634" alt="image" src="https://github.com/user-attachments/assets/91fdaf40-9b50-4f34-bf0c-1755ddf20fff" />
+
+## Task7-Task8
+<img width="783" height="629" alt="image" src="https://github.com/user-attachments/assets/2091263a-bf2e-4f10-9cdc-5e679b3fd134" />
+
+## Task9-Task10
+<img width="779" height="468" alt="image" src="https://github.com/user-attachments/assets/d454bd73-d4d6-44d2-ab0a-dbc09bc4f208" />
+## Task11
+<img width="777" height="245" alt="image" src="https://github.com/user-attachments/assets/86803478-3bee-495a-865b-6bc21a46b471" />
