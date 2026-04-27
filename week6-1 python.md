@@ -1,4 +1,4 @@
-# My Python Lab for week5-2
+# My Python Lab for week6-1
 
 ## Task1-Task5
 <img width="848" height="714" alt="image" src="https://github.com/user-attachments/assets/dd796c5d-6476-4957-a7cf-bd3946549102" />
