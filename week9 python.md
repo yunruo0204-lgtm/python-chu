@@ -62,3 +62,11 @@
 
 ## Task20
 <img width="848" height="723" alt="image" src="https://github.com/user-attachments/assets/32af5146-b9c0-42ac-9a88-fba668a8ada8" />
+
+## Task21
+<img width="846" height="714" alt="image" src="https://github.com/user-attachments/assets/1640544c-ccd3-4ed1-a924-ac83f190f873" />
+
+## Task22
+<img width="836" height="724" alt="image" src="https://github.com/user-attachments/assets/83dc49b8-90f1-48ad-8855-e9b35be017c6" />
+
+## Task23
