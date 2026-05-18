@@ -69,6 +69,10 @@
 ## Task22
 <img width="836" height="724" alt="image" src="https://github.com/user-attachments/assets/83dc49b8-90f1-48ad-8855-e9b35be017c6" />
 
+## Task23
+<img width="857" height="227" alt="image" src="https://github.com/user-attachments/assets/b70d56fc-e7f9-4d4c-b647-aa3444a5412c" />
+
+
 ## Task24
 <img width="842" height="339" alt="image" src="https://github.com/user-attachments/assets/1830165d-e8f1-4580-ac74-615af51d269a" />
 <img width="849" height="676" alt="image" src="https://github.com/user-attachments/assets/8949679c-b515-4125-aac8-61e734e88131" />
@@ -78,3 +82,18 @@
 <img width="846" height="638" alt="image" src="https://github.com/user-attachments/assets/fde74da9-e19d-4200-86f2-8c3958896a9d" />
 
 ## Task26
+<img width="840" height="721" alt="image" src="https://github.com/user-attachments/assets/6b8fb963-3a8a-4f73-a9a1-a6f4c635342e" />
+
+## Task27
+<img width="844" height="263" alt="image" src="https://github.com/user-attachments/assets/eca45c3d-7485-480f-bff3-466cc2a1739b" />
+<img width="847" height="692" alt="image" src="https://github.com/user-attachments/assets/e46d8441-80fa-4023-bc15-a656421b6dfd" />
+
+## Task28
+<img width="837" height="727" alt="image" src="https://github.com/user-attachments/assets/895567ee-e65c-43b6-8c13-7aaea77bdda0" />
+
+## Task29
+<img width="852" height="726" alt="image" src="https://github.com/user-attachments/assets/73967780-9754-47ee-baf1-6933eac23147" />
+
+## Task30
+<img width="834" height="394" alt="image" src="https://github.com/user-attachments/assets/e9ce9bf0-c7b8-4a6a-a48a-a267985b5172" />
+<img width="859" height="722" alt="image" src="https://github.com/user-attachments/assets/a5482037-0480-4289-a68e-41871d45a2b2" />
